@@ -1,0 +1,2 @@
+No es un comando, se crea un archivo nombrado asi y se puede poner las excepciones de lo que no se quiere que se agrege por ejemplo: # no .a files
+*.a
